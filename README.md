@@ -63,9 +63,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavchauhann&theme=radical" alt="GitHub Streak" width="48%"/>  
 </p>  
 
-<p align="center">  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pranavchauhann&theme=redical" alt="Activity Graph" />  
-</p>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavchauhann&theme=radical" alt="Activity Graph"/>
+</p>
+
 
 ---
 
