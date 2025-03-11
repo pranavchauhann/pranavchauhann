@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me  
 🎓 **Data Science PGP** @ *VIT Bangalore (2024-2025)*  
 🎓 **B.Tech Computer Science** @ *Kurukshetra University (2019-2023)*  
-📜 **Certifications**: AWS Cloud Practitioner | Python for Data Science (Coursera) | Power BI (Upcoming)  
+📜 **Certifications**: AWS Cloud Practitioner Training  | Python for Data Science (Coursera) | Power BI (Upcoming)  
 
 💡 Passionate about transforming raw data into actionable insights through machine learning, data visualization, and cloud solutions.  
 
