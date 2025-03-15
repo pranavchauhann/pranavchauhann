@@ -74,6 +74,6 @@
 ## 📫 Connect With Me  
 🌐 **Portfolio/GitHub**: [github.com/pranavchauhann](https://github.com/pranavchauhann)  
 💼 **LinkedIn**: [linkedin.com/in/pranavchauhann](https://www.linkedin.com/in/pranavchauhann)  
-📧 **Email**: pranav@example.com  
+📧 **Email**: pranavchauhann@gmail.com  
 
 🚀 **Let’s collaborate on exciting data-driven projects!**  
